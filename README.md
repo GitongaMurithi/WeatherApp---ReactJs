@@ -11,15 +11,15 @@ This is a simple Weather App built using React.js that allows users to check the
 
 ## Technologies Used
 - [React.js](https://react.dev/) : For building the user interface.
-- [- OpenWeatherMap API](https://openweathermap.org/): For fetching weather data.
+- [OpenWeatherMap API](https://openweathermap.org/): For fetching weather data.
 - [CSS](https://www.w3schools.com/css/) : For styling.
 - [HTML](https://www.w3schools.com/html/)
 
 ## Installation
 - Clone the repository: git clone [https://github.com/your-username/weather-app.git](https://github.com/GitongaMurithi/WeatherApp---ReactJs)
-- Navigate into the project directory: cd weather-app
-- Install dependencies: npm install
-- Run the app: npm start
+- Navigate into the project directory: `cd weather-app`
+- Install dependencies: `npm install`
+- Run the app: `npm start`
 
 ## Future Enhancements
 * Display weather forecasts (hourly/daily).
